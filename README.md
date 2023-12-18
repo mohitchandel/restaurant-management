@@ -16,10 +16,10 @@ This project is a result of following the tutorial by [YouTube Link](https://www
 
 To run this Restaurant Management System, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/mohitchandel/restaurent-management.git`
-2. Navigate to the project directory: `cd restaurent-management`
+1. Clone the repository: `git clone https://github.com/mohitchandel/restaurant-management.git`
+2. Navigate to the project directory: `cd restaurant-management`
 3. Build the application: `go build`
-4. Run the executable: `./restaurent-management`
+4. Run the executable: `./restaurant-management`
 
 ## Usage
 
